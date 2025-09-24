@@ -1,4 +1,4 @@
-Here’s a clean, copy‑paste‑ready README.md with improved readability and formatting.
+
 
 # Diabetes Prediction & Continuous Learning (Streamlit)
 
